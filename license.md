@@ -179,7 +179,7 @@ instead of running an old one.
 
 ---
 
-*cyberpunk-2077-helper-pack · Updated 2026-10-31 · Shared under the MIT License*
+*cyberpunk-2077-helper-pack · Updated 2026-11-01 · Shared under the MIT License*
 
 
-Updated 2026-10-31.
+Updated 2026-11-01.
